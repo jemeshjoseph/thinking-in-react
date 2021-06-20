@@ -16,12 +16,18 @@ export default class PageRouter extends React.Component {
               <li>
                 <Link to="/filter-product">Filterable Product Table</Link>
               </li>
+              <li>
+                <Link to="/hoc-example">HOC Example</Link>
+              </li>
             </ul>
           </nav>
 
           <Switch>
             <Route path="/filter-product">
               <FilterableProductTable />
+            </Route>
+            <Route path="/hoc-example">
+              <Home />
             </Route>
             <Route path="/">
               <Home />

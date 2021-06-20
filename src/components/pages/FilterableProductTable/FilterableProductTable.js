@@ -1,6 +1,7 @@
 import React from 'react';
 import SearchBar from './SearchBar';
 import ProductTable from './ProductTable';
+import './FilterableProductTable.css';
 
 export default class FilterableProductTable extends React.Component {
   constructor(props) {
@@ -23,9 +24,9 @@ export default class FilterableProductTable extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="filter-product-container">
         <SearchBar onSearchTextChange={this.handleSearchTextChange} onStockedCheckChange={this.handleStockedCheckChange} />
-        <ProductTable />
+        <ProductTable searchText={this.state.searchText} isStocked={this.state.isStocked} />
       </div>
     );
   }
