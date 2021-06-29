@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thinking-in-react/static/css/main.2da58ac6.chunk.css",
+    "main.js": "/thinking-in-react/static/js/main.ea434324.chunk.js",
+    "main.js.map": "/thinking-in-react/static/js/main.ea434324.chunk.js.map",
+    "runtime-main.js": "/thinking-in-react/static/js/runtime-main.ca427672.js",
+    "runtime-main.js.map": "/thinking-in-react/static/js/runtime-main.ca427672.js.map",
+    "static/js/2.9b7a11be.chunk.js": "/thinking-in-react/static/js/2.9b7a11be.chunk.js",
+    "static/js/2.9b7a11be.chunk.js.map": "/thinking-in-react/static/js/2.9b7a11be.chunk.js.map",
+    "static/js/3.9680f17f.chunk.js": "/thinking-in-react/static/js/3.9680f17f.chunk.js",
+    "static/js/3.9680f17f.chunk.js.map": "/thinking-in-react/static/js/3.9680f17f.chunk.js.map",
+    "index.html": "/thinking-in-react/index.html",
+    "static/css/main.2da58ac6.chunk.css.map": "/thinking-in-react/static/css/main.2da58ac6.chunk.css.map",
+    "static/js/2.9b7a11be.chunk.js.LICENSE.txt": "/thinking-in-react/static/js/2.9b7a11be.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thinking-in-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca427672.js",
+    "static/js/2.9b7a11be.chunk.js",
+    "static/css/main.2da58ac6.chunk.css",
+    "static/js/main.ea434324.chunk.js"
+  ]
+}
